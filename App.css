@@ -1,0 +1,19 @@
+.verticalLine {
+  position: absolute;
+  border: none;
+  width: 1px;
+  background-color: black;
+}
+
+.horizontalLine {
+  border: none;
+  position: absolute;
+  height: 1px;
+  background-color: black;
+}
+
+.liquid {
+  position: absolute;
+  border: none;
+  background-color: CadetBlue;
+}
