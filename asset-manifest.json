@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/twotanks/static/css/main.faa4f1fc.chunk.css",
-    "main.js": "/twotanks/static/js/main.a03d99ca.chunk.js",
-    "main.js.map": "/twotanks/static/js/main.a03d99ca.chunk.js.map",
+    "main.css": "/twotanks/static/css/main.ee4cde98.chunk.css",
+    "main.js": "/twotanks/static/js/main.daac35fa.chunk.js",
+    "main.js.map": "/twotanks/static/js/main.daac35fa.chunk.js.map",
     "runtime-main.js": "/twotanks/static/js/runtime-main.d3f6e098.js",
     "runtime-main.js.map": "/twotanks/static/js/runtime-main.d3f6e098.js.map",
     "static/js/2.323a3023.chunk.js": "/twotanks/static/js/2.323a3023.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.929c28a5.chunk.js": "/twotanks/static/js/3.929c28a5.chunk.js",
     "static/js/3.929c28a5.chunk.js.map": "/twotanks/static/js/3.929c28a5.chunk.js.map",
     "index.html": "/twotanks/index.html",
-    "static/css/main.faa4f1fc.chunk.css.map": "/twotanks/static/css/main.faa4f1fc.chunk.css.map",
+    "static/css/main.ee4cde98.chunk.css.map": "/twotanks/static/css/main.ee4cde98.chunk.css.map",
     "static/js/2.323a3023.chunk.js.LICENSE.txt": "/twotanks/static/js/2.323a3023.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d3f6e098.js",
     "static/js/2.323a3023.chunk.js",
-    "static/css/main.faa4f1fc.chunk.css",
-    "static/js/main.a03d99ca.chunk.js"
+    "static/css/main.ee4cde98.chunk.css",
+    "static/js/main.daac35fa.chunk.js"
   ]
 }
