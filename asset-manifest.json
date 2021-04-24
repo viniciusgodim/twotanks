@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twotanks/static/css/main.faa4f1fc.chunk.css",
-    "main.js": "/twotanks/static/js/main.13edfd3f.chunk.js",
-    "main.js.map": "/twotanks/static/js/main.13edfd3f.chunk.js.map",
+    "main.js": "/twotanks/static/js/main.a03d99ca.chunk.js",
+    "main.js.map": "/twotanks/static/js/main.a03d99ca.chunk.js.map",
     "runtime-main.js": "/twotanks/static/js/runtime-main.d3f6e098.js",
     "runtime-main.js.map": "/twotanks/static/js/runtime-main.d3f6e098.js.map",
     "static/js/2.323a3023.chunk.js": "/twotanks/static/js/2.323a3023.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d3f6e098.js",
     "static/js/2.323a3023.chunk.js",
     "static/css/main.faa4f1fc.chunk.css",
-    "static/js/main.13edfd3f.chunk.js"
+    "static/js/main.a03d99ca.chunk.js"
   ]
 }
